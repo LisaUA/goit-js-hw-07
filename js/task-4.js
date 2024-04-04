@@ -13,5 +13,3 @@ formRef.addEventListener("submit", (event) => {
   console.log(data);
   formRef.reset();
 });
-
-
